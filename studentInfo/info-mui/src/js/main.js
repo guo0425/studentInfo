@@ -1,0 +1,9 @@
+require.config({
+	baseUrl:"/js/",
+	paths:{
+		'index':'page/index',
+		'mui':'libs/mui.min',
+		'addInfo':'page/addInfo',
+		"formatURL":"util/formatURL"
+	}
+})

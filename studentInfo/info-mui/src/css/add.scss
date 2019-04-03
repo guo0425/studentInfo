@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.header {
+    height: 44px;
+    h1 {
+        font-size: 16px;
+        line-height: 44px;
+    }
+}
+
+.mui-content {
+    padding-top: 44px;
+}
+
+#btnBox button {
+    display: none;
+}
+
+#btnBox button.show {
+    display: inline-block;
+}
